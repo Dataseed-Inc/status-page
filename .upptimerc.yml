@@ -8,17 +8,17 @@ sites:
   - name: Dataseed application
     url: https://test.dataseed.jp
   - name: Dataseed API
-    url: https://api.dataseed.jp
+    url: https://api.dataseed.jp/docs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.dataseed.jp/_next/image?url=%2Fglobal%2FDataseed_logo.png&w=640&q=75
   name: Dataseed
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "はじめてのESG経営から、100年先も続く企業へ"
+  introMessage: "Dataseedは、ESG導入からデータ収集・分析、 経営判断への活用までステークホルダーが納得する 長期的な企業価値育成をサポートします。"
   navbar:
     - title: Status
       href: /
