@@ -1,7 +1,7 @@
-url: https://api.dataseed.jp
-status: down
-code: 404
-responseTime: 243
-lastUpdated: 2023-10-29T13:50:36.551Z
+url: https://api.dataseed.jp/docs
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2023-10-29T13:56:31.093Z
 startTime: 2023-10-29T13:50:36.069Z
 generator: Upptime <https://github.com/upptime/upptime>
