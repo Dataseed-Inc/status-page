@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dataseed.jp
-  baseUrl: /status-page
+  # baseUrl: /status-page
   logoUrl: https://www.dataseed.jp/_next/image?url=%2Fglobal%2FDataseed_logo.png&w=640&q=75
   name: Dataseed
   introTitle: "はじめてのESG経営から、100年先も続く企業へ"
