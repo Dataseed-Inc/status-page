@@ -5,15 +5,18 @@ repo: status-page # The name of this repository
 sites:
   - name: Dataseed website
     url: https://www.dataseed.jp
+    icon: https://test.dataseed.jp/favicon.ico
   - name: Dataseed application
     url: https://test.dataseed.jp
+    icon: https://test.dataseed.jp/favicon.ico
   - name: Dataseed API
     url: https://api.dataseed.jp/docs
+    icon: https://test.dataseed.jp/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.dataseed.jp
   baseUrl: /status-page
   logoUrl: https://www.dataseed.jp/_next/image?url=%2Fglobal%2FDataseed_logo.png&w=640&q=75
   name: Dataseed
