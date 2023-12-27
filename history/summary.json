@@ -23,18 +23,18 @@
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-application",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2630,
     "timeDay": 2027,
     "timeWeek": 2353,
     "timeMonth": 2613,
     "timeYear": 2630,
     "dailyMinutesDown": {
-      "2023-12-27": 7
+      "2023-12-27": 0
     }
   },
   {
@@ -43,18 +43,16 @@
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 231,
     "timeWeek": 356,
     "timeMonth": 299,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-12-27": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
