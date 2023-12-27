@@ -22,35 +22,39 @@
     "url": "https://test.dataseed.jp",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2642,
-    "timeDay": 2351,
+    "timeDay": 2173,
     "timeWeek": 2412,
     "timeMonth": 2635,
     "timeYear": 2642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 2
+    }
   },
   {
     "name": "Dataseed API",
     "url": "https://api.dataseed.jp/docs",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 377,
+    "timeDay": 290,
     "timeWeek": 379,
     "timeMonth": 303,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   }
 ]
