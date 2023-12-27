@@ -22,19 +22,19 @@
     "url": "https://test.dataseed.jp",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-application",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2642,
-    "timeDay": 2173,
-    "timeWeek": 2412,
-    "timeMonth": 2635,
-    "timeYear": 2642,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2630,
+    "timeDay": 2027,
+    "timeWeek": 2353,
+    "timeMonth": 2613,
+    "timeYear": 2630,
     "dailyMinutesDown": {
-      "2023-12-27": 2
+      "2023-12-27": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.dataseed.jp/docs",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 290,
-    "timeWeek": 379,
-    "timeMonth": 303,
-    "timeYear": 295,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 294,
+    "timeDay": 231,
+    "timeWeek": 356,
+    "timeMonth": 299,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 6
     }
   }
 ]
