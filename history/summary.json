@@ -24,9 +24,9 @@
     "slug": "dataseed-application",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2660,
     "timeDay": 3945,
@@ -34,7 +34,7 @@
     "timeMonth": 2621,
     "timeYear": 2660,
     "dailyMinutesDown": {
-      "2024-01-16": 2
+      "2024-01-16": 3
     }
   },
   {
@@ -44,8 +44,8 @@
     "slug": "dataseed-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
@@ -54,7 +54,7 @@
     "timeMonth": 304,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 1
     }
   }
 ]
