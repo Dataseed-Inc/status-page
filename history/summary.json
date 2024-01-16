@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 148,
-    "timeWeek": 197,
-    "timeMonth": 214,
-    "timeYear": 256,
+    "time": 255,
+    "timeDay": 204,
+    "timeWeek": 188,
+    "timeMonth": 211,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -22,35 +22,39 @@
     "url": "https://test.dataseed.jp",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2645,
-    "timeDay": 2005,
-    "timeWeek": 2690,
-    "timeMonth": 2564,
-    "timeYear": 2645,
-    "dailyMinutesDown": {}
+    "time": 2660,
+    "timeDay": 3945,
+    "timeWeek": 2952,
+    "timeMonth": 2621,
+    "timeYear": 2660,
+    "dailyMinutesDown": {
+      "2024-01-16": 2
+    }
   },
   {
     "name": "Dataseed API",
     "url": "https://api.dataseed.jp/docs",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 321,
-    "timeWeek": 309,
+    "timeDay": 250,
+    "timeWeek": 311,
     "timeMonth": 304,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   }
 ]
