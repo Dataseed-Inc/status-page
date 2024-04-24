@@ -12,6 +12,9 @@ sites:
   - name: Dataseed API
     url: https://api.dataseed.jp/docs
     icon: https://test.dataseed.jp/favicon.ico
+  - name: Dataseed blog
+    url: https://web-admin.dataseed.jp/api/articles
+    icon: https://test.dataseed.jp/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
