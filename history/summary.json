@@ -60,18 +60,20 @@
     "url": "https://web-admin.dataseed.jp/api/articles",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 443,
-    "timeWeek": 507,
-    "timeMonth": 629,
-    "timeYear": 644,
-    "dailyMinutesDown": {}
+    "time": 916,
+    "timeDay": 5574,
+    "timeWeek": 1782,
+    "timeMonth": 954,
+    "timeYear": 916,
+    "dailyMinutesDown": {
+      "2024-05-28": 0
+    }
   },
   {
     "name": "Dataseed ESG AI",
