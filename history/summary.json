@@ -4,19 +4,19 @@
     "url": "https://www.dataseed.jp",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 134,
-    "timeWeek": 248,
-    "timeMonth": 283,
+    "timeDay": 223,
+    "timeWeek": 256,
+    "timeMonth": 284,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 7
     }
   },
   {
