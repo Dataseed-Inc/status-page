@@ -6,18 +6,16 @@
     "slug": "dataseed-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 223,
-    "timeWeek": 256,
-    "timeMonth": 284,
+    "timeDay": 262,
+    "timeWeek": 268,
+    "timeMonth": 287,
     "timeYear": 300,
-    "dailyMinutesDown": {
-      "2024-06-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dataseed application",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2809,
-    "timeDay": 3361,
-    "timeWeek": 2854,
-    "timeMonth": 2573,
-    "timeYear": 2809,
+    "time": 2804,
+    "timeDay": 1793,
+    "timeWeek": 2603,
+    "timeMonth": 2563,
+    "timeYear": 2804,
     "dailyMinutesDown": {
       "2024-01-16": 16
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 346,
-    "timeWeek": 244,
-    "timeMonth": 252,
+    "timeDay": 256,
+    "timeWeek": 253,
+    "timeMonth": 253,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 3752,
-    "timeWeek": 1570,
-    "timeMonth": 1351,
-    "timeYear": 1024,
+    "time": 1016,
+    "timeDay": 477,
+    "timeWeek": 1569,
+    "timeMonth": 1350,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 96,
-    "timeWeek": 191,
-    "timeMonth": 163,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 149,
+    "timeWeek": 167,
+    "timeMonth": 165,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   }
 ]
