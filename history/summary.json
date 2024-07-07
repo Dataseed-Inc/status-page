@@ -22,10 +22,10 @@
     "url": "https://test.dataseed.jp",
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2821,
@@ -34,6 +34,7 @@
     "timeMonth": 2618,
     "timeYear": 2821,
     "dailyMinutesDown": {
+      "2024-07-07": 1,
       "2024-01-16": 16
     }
   },
@@ -67,7 +68,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1056,
-    "timeDay": 3886,
+    "timeDay": 405,
     "timeWeek": 1608,
     "timeMonth": 1101,
     "timeYear": 1056,
