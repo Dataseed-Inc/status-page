@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 1441,
-    "timeWeek": 479,
-    "timeMonth": 320,
-    "timeYear": 308,
+    "time": 310,
+    "timeDay": 763,
+    "timeWeek": 564,
+    "timeMonth": 332,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2825,
-    "timeDay": 2228,
-    "timeWeek": 3045,
-    "timeMonth": 2628,
-    "timeYear": 2825,
+    "time": 2821,
+    "timeDay": 2131,
+    "timeWeek": 2734,
+    "timeMonth": 2618,
+    "timeYear": 2821,
     "dailyMinutesDown": {
       "2024-01-16": 16
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 375,
-    "timeWeek": 289,
+    "time": 282,
+    "timeDay": 204,
+    "timeWeek": 283,
     "timeMonth": 262,
-    "timeYear": 283,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://test.dataseed.jp/favicon.ico",
     "slug": "dataseed-blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1064,
-    "timeDay": 3961,
-    "timeWeek": 1622,
-    "timeMonth": 1106,
-    "timeYear": 1064,
-    "dailyMinutesDown": {
-      "2024-07-06": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1056,
+    "timeDay": 3886,
+    "timeWeek": 1608,
+    "timeMonth": 1101,
+    "timeYear": 1056,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dataseed ESG AI",
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 177,
-    "timeWeek": 888,
-    "timeMonth": 323,
+    "timeDay": 259,
+    "timeWeek": 917,
+    "timeMonth": 325,
     "timeYear": 244,
     "dailyMinutesDown": {}
   }
