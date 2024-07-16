@@ -1,7 +1,7 @@
 url: https://web-admin.dataseed.jp/api/articles
-status: up
-code: 200
-responseTime: 639
-lastUpdated: 2024-07-15T23:05:00.850Z
+status: down
+code: 429
+responseTime: 10324
+lastUpdated: 2024-07-16T18:49:34.653Z
 startTime: 2024-04-24T08:52:13.425Z
 generator: Upptime <https://github.com/upptime/upptime>
